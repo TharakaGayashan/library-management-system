@@ -1,0 +1,61 @@
+﻿footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover {
+    color: #ffd800;
+}
+
+#footer1 {
+    background: #e3f2fd;
+}
+
+#footer2 {
+    background: #3caafa;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#section1 {
+    background: url(../../images/library4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding-top: 220px;
+    padding-bottom: 80px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#section2 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+#section3 {
+    background: url(../../images/library3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+img {
+    transition: all .2s ease-in-out;
+}
+
+    img:hover {
+        transform: scale(1.1);
+    }
